@@ -1,1 +1,2 @@
-Olá, meu nome é Lincoln.
+Olá, meu nome é Lincoln
+Olá, eu sou uma nova linha
